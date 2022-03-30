@@ -87,6 +87,14 @@ header{
   height: 100%;
 }
 
+#section-parent{
+  padding-top: 4rem;
+}
+
+#s1{
+  width: 800px;
+}
+
 #child{
   position: absolute;
   background: white;
@@ -96,6 +104,8 @@ header{
   right: 0;
   top: 0;
   padding: 1rem;
+  margin-top: 20rem;
+  text-align: end;
 }
 
 .icons{
