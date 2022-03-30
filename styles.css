@@ -31,10 +31,16 @@
   border: 2px solid #be574b;
 }
 
+.section-container{
+  background: white;
+  height: 100%;
+}
+
+
 .section-information{
   font-family: 'Playfair Display', sans-serif;
   color: #be574b;
-  font-family: 3.125rem;
+  font-size: 3rem;
   font-weight: 700;
 }
 
@@ -69,4 +75,8 @@ header{
   height: 100%;
   object-fit: cover;
   z-index: -1;
+}
+
+.icons{
+  width: 100;
 }
