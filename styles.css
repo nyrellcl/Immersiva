@@ -77,6 +77,11 @@ header{
   z-index: -1;
 }
 
+#social, #branch, #multiple-choice{
+  background-color: #272626;
+   border-radius: 1rem;
+}
+
 .services-container{
   margin-top: 5rem;
   display: flex;
@@ -91,6 +96,7 @@ header{
   align-items: center;
   justify-content: center;
   height: 300px;
+  gap: 3rem;
 }
 
 .service-headings{
