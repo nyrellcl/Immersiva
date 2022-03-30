@@ -83,13 +83,13 @@ header{
 }
 
 .services-container{
-  margin-top: 5rem;
   display: grid;
   grid-template-columns: repeat(3, auto);
   grid-template-rows: repeat(2,auto);
   gap: 3rem;
   justify-items: center;
   align-items: center;
+  margin: 5rem;
 }
 
 .services-information{
@@ -155,6 +155,6 @@ header{
 }
 
 .icons{
-  width: 90px;
+  width: 100px;
   height: auto;
 }
