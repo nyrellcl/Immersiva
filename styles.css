@@ -82,10 +82,8 @@ header{
 }
 
 #parent{
-  display: flex;
   position: relative;
   width: 100%;
-  justify-content: center;
   height: 100%;
 }
 
