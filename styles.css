@@ -89,6 +89,22 @@ header{
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  height: 300px;
+}
+
+.service-headings{
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #be574b;
+}
+
+.service-details{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #272626;
 }
 
 #parent{
