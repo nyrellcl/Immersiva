@@ -77,7 +77,7 @@ header{
   z-index: -1;
 }
 
-#social, #branch, #multiple-choice{
+.service-card{
   background-color: #272626;
    border-radius: 1rem;
 }
