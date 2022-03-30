@@ -77,6 +77,19 @@ header{
   z-index: -1;
 }
 
+.services-heading{
+  display: flex;
+  align-items: center;
+  margin: 5rem;
+}
+
+.services-title{
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 2.5rem;
+  color: black;
+}
+  
+
 .service-card{
   background-color: #272626;
    border-radius: 1rem;
