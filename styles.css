@@ -87,6 +87,7 @@ header{
   display: flex;
   align-items: center;
   width: 100%;
+  gap: 3rem;
 }
 
 .services-information{
@@ -111,7 +112,7 @@ header{
   font-family: 'Poppins', sans-serif;
   font-size: 1.125rem;
   font-weight: 600;
-  color: #272626;
+  color: whitesmoke;
   padding: 0 1rem;
 }
 
