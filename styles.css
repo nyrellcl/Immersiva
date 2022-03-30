@@ -84,10 +84,12 @@ header{
 
 .services-container{
   margin-top: 5rem;
-  display: flex;
-  align-items: center;
-  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(2,auto);
   gap: 3rem;
+  justify-items: center;
+  align-items: center;
 }
 
 .services-information{
