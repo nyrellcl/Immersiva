@@ -77,6 +77,29 @@ header{
   z-index: -1;
 }
 
+.services-information{
+  width: 100%;
+}
+
+#parent{
+  display: flex;
+  position: relative;
+  width: 90vw;
+  justify-content: center;
+}
+
+#child{
+  position: absolute;
+  background: white;
+  box-sizing: border-box;
+  height: auto;
+  width: 500px;
+  right: 0;
+  bottom: 0;
+  padding: 1rem;
+}
+
 .icons{
-  width: 100;
+  width: 70px;
+  height: auto;
 }
