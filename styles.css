@@ -38,6 +38,7 @@
 .btn.btn-background:hover::before,
 .btn.btn-background:focus::before{
   transform: scaleX(1);
+  cursor: pointer;
 }
 
 .btn.btn-background{
@@ -62,6 +63,7 @@
 
 .btn:hover, .btn:focus{
   color: #2b4662;
+  cursor: pointer;
 }
   
 
