@@ -43,6 +43,7 @@
 .btn.btn-background{
   transition: color 300ms ease-in-out;
   z-index: 1;
+  position: relative;
 }
   
   
@@ -52,7 +53,6 @@
   font-size: 1.125rem;
   width: 250px;
   height: 55px;
-  border-radius: 1.5rem;
   text-transform: uppercase;
   border: 2px solid #be574b;
 }
