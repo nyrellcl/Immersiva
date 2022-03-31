@@ -267,3 +267,20 @@ header{
   width: 100%;
   text-align: center;
 }
+
+#image-parent {
+  display: flex;
+  position: relative;
+  width: 90vw;
+  justify-content: center;
+}
+
+#image-child {
+  position: absolute;
+  background: white;
+  box-sizing: border-box;
+  height: auto;
+  right: 0;
+  bottom: 0;
+  padding: 1rem;
+}
