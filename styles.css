@@ -263,6 +263,5 @@ header{
   display: flex; 
   align-items: center;
   margin: 5rem;
-  justify-content: flex-end;
   width: 100%;
 }
