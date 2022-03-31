@@ -22,10 +22,10 @@
 }
 
 .decorative-line {
-  background-image: linear-gradient(to right, black, transparent, transparent, black 100%);
+  background-image: linear-gradient(to right, #f3d527, transparent, transparent, f2d527 100%);
   background-repeat: no-repeat;
-  background-size: 100% 4px;
-  background-position: 0 175px;
+  background-size: 100% 6px;
+  background-position: 0 370px;
 }
 
 .btn.btn-background::before{
