@@ -21,7 +21,32 @@
   text-align: center;
 }
 
-.btn, .gap-btn{
+.btn.btn-background::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  background-color: pink;
+  transition: transform 300ms ease-in-out;
+  transform: scaleX(0);
+  transform-origin: left;
+}
+
+.btn.btn-background:hover::before,
+.btn.btn-background:focus::before{
+  transform: scaleX(1);
+}
+
+.btn.btn-background{
+  transition: color 300ms ease-in-out;
+  z-index: 1;
+}
+  
+  
+.btn{
   font-family: 'Lato, Arial, Helvetica', sans-serif;
   color: #be574b;
   font-size: 1.125rem;
@@ -31,6 +56,11 @@
   text-transform: uppercase;
   border: 2px solid #be574b;
 }
+
+.btn:hover, .btn:focus{
+  color: black;
+}
+  
 
 .section-container{
   background: white;
