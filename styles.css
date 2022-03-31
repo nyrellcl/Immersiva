@@ -100,6 +100,18 @@ header{
   color: #272626;
 }
 
+.in-action {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gap-img {
+  max-width: 70%;
+  height: auto;
+}
+
 
   
 
