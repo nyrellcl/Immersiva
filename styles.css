@@ -262,6 +262,8 @@ header{
 .expertise-heading{
   display: flex; 
   align-items: center;
+  justify-content: center;
   margin: 5rem;
   width: 100%;
+  text-align: center;
 }
