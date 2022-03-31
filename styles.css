@@ -268,14 +268,14 @@ header{
   text-align: center;
 }
 
-#image-parent {
+#img-parent {
   display: flex;
   position: relative;
   width: 90vw;
   justify-content: center;
 }
 
-#image-child {
+#img-child {
   position: absolute;
   background: white;
   box-sizing: border-box;
