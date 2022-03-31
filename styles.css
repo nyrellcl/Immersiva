@@ -168,7 +168,7 @@ header{
   margin: 5rem;
 }
 
-.services-title{
+.services-title, .expertise-title{
   font-family: 'Fraunces', serif;
   font-size: 2.5rem;
   color: black;
@@ -257,4 +257,12 @@ header{
 .icons{
   width: 100px;
   height: auto;
+}
+
+.expertise-heading{
+  display: flex; 
+  align-items: center;
+  margin: 5rem;
+  justify-content: flex-end;
+  width: 100%;
 }
