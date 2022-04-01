@@ -466,6 +466,10 @@ li.contact-items > a {
     flex-direction: column;
   }
   
+  .expertise-title{
+    font-size: 2.45rem;
+  }
+  
   .offer-details{
     width: 100%;
     text-align: center;
