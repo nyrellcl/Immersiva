@@ -312,7 +312,7 @@ header{
   height: auto;
 }
 
-.growth-container, .create-container{
+.growth-container, .create-container, .transform-container{
   display: flex;
   width: 100%;
   height: auto;
@@ -321,11 +321,11 @@ header{
   color: black;
 }
 
-#growth, #create{
+#growth, #create, #transform{
   width: 50%;
 }
 
-.growth-section, .create-section {
+.growth-section, .create-section, .transform-section {
   display: flex;
   flex-direction: column;
   align-items: center;
