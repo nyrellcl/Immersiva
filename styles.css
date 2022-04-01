@@ -367,6 +367,14 @@ curved top and bottom background*/
   justify-content: center;
   margin-top: 5rem;
 }
+
+.logo-contacts{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+}
+
 .contact-list{
   list-style: none;
   display: flex;
@@ -374,12 +382,25 @@ curved top and bottom background*/
 }
 
 .contact-items{
-  text-decoration: none;
   gap: 2rem;
   font-family: 'Lato, Helvetica, Arial', sans-serif;
   font-size: 1.5rem;
 }
+ul li a {
+  color: black;
+}
+
+li.contact-items > a {
+  text-decoration: none;
+}
+
 .comp-logo{
   width: 100%;
   height: auto;
+}
+
+#footer-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
