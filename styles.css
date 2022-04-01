@@ -126,6 +126,17 @@ header{
   z-index: -1;
 }
 
+.color-change{
+  color: #be574b;
+}
+
+.gap-style-change{
+  text-transform: uppercase; 
+  font-family: 'Fraunces', sans-serif; 
+  font-weight: 700; 
+  color: #4BB2BE;
+}
+
 .gap-container{
   margin: 5rem;
   display: flex;
@@ -288,6 +299,12 @@ header{
   text-transform: uppercase;
   width: 100%;
 }
+
+.exp-img{
+  width: 700px;
+  height: auto;
+}
+
 
 #img-parent {
   display: flex;
