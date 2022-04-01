@@ -447,6 +447,10 @@ li.contact-items > a {
     background-image: linear-gradient(to right, transparent, transparent, transparent, transparent);
   }
   
+  .decorative-line-2{
+  background-image: linear-gradient(to right, transparent, transparent, transparent, transparent);
+}
+  
   .gap-title, .services-title{
     box-shadow: none;
   }
