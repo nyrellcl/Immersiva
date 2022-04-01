@@ -91,12 +91,14 @@
   font-weight: 700;
 }
 
+/*Essential code for the parallax effect*/
 .wrapper{
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
   perspective: 10px;
 }
+/*------*/
 
 header{
   position: relative;
@@ -353,4 +355,31 @@ curved top and bottom background*/
 .bg-inherit {
   display: inherit;
   width: 100%;
+}
+
+/*Footer styles*/
+
+.footer-container{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5rem;
+}
+.contact-list{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-items{
+  text-decoration: none;
+  gap: 2rem;
+  font-family: 'Lato, Helvetica, Arial', sans-serif;
+  font-size: 1.5rem;
+}
+.comp-logo{
+  width: 100%;
+  height: auto;
 }
