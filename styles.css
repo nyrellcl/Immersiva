@@ -365,6 +365,18 @@ curved top and bottom background*/
   margin: 8rem 0;
 }
 
+#about-btn {
+  width: 300px;
+  height: 70px;
+}
+
+.decorative-line-2{
+  background-image: linear-gradient(to right, black, solid, solid, black 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 6px;
+  background-position: 0 400px;
+}
+
 /*Footer styles*/
 
 .footer-container{
