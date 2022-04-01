@@ -371,7 +371,7 @@ curved top and bottom background*/
 }
 
 .decorative-line-2{
-  background-image: linear-gradient(to right, black, solid, solid, black 100%);
+  background-image: linear-gradient(to right, black, transparent, transparent, black 100%);
   background-repeat: no-repeat;
   background-size: 100% 6px;
   background-position: 0 400px;
