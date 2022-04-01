@@ -305,3 +305,45 @@ header{
   padding: 1rem;
   width: 600px
 }
+
+.offer-imgs{
+  width: 700px;
+  height: auto;
+}
+
+.growth-container{
+  display: flex;
+  width: 100%;
+  height: auto;
+  align-items: center;
+    /* background-color: #be574b; */
+  margin: 3rem 0;
+  color: black;
+}
+
+#growth, #create{
+  width: 50%;
+}
+
+.growth-section, create-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  justify-content: center;
+}
+
+.offer-titles {
+  font-family: 'Fraunces', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin: 0;
+  color: #be574b;
+}
+
+.offer-details {
+  width: 50%;
+  font-family: 'Lato, Helvetica, Arial', sans-serif;
+  font-size: 1.5rem;
+}
