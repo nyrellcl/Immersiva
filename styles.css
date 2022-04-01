@@ -511,6 +511,7 @@ li.contact-items > a {
     right: auto;
     left: auto;
     width: 100%;
+    margin: 0 auto;
   }
   
   .exp-img{
