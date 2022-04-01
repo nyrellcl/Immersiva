@@ -244,13 +244,13 @@ header{
 #s1{
   width: 800px;
   padding-left: 3rem;
-  box-shadow: inset 13px 13px 3px -9px;
+  box-shadow: inset 4px 4px;
   padding-top: 1rem;
 }
 
 #s2{
   padding-right: 3rem;
-  box-shadow: 4px 4px 2px 1px;
+  box-shadow: 4px 4px;
   padding-bottom: 1rem;
 }
 
