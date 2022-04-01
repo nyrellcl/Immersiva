@@ -311,12 +311,12 @@ header{
   height: auto;
 }
 
-.growth-container{
+.growth-container, .create-container{
   display: flex;
   width: 100%;
   height: auto;
   align-items: center;
-    /* background-color: #be574b; */
+  background-color: hsl(207, 100%, 98%); 
   margin: 3rem 0;
   color: black;
 }
@@ -346,4 +346,11 @@ header{
   width: 50%;
   font-family: 'Lato, Helvetica, Arial', sans-serif;
   font-size: 1.5rem;
+}
+
+/*This will make the image inherit the background of the next element in the HTML file. Will remove the white line separating the img and div container making a 
+curved top and bottom background*/
+.bg-inherit {
+  display: inherit;
+  width: 100%;
 }
