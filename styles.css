@@ -292,6 +292,7 @@ header{
   position: relative;
   width: 100vw;
   justify-content: center;
+  margin: 5rem 0;
 }
 
 #img-child {
@@ -317,7 +318,6 @@ header{
   height: auto;
   align-items: center;
   background-color: hsl(207, 100%, 98%); 
-  margin: 3rem 0;
   color: black;
 }
 
