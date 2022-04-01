@@ -507,6 +507,16 @@ li.contact-items > a {
     width: 100%;
   }
   
+  #img-child{
+    right: auto;
+    left: auto;
+    width: 100%;
+  }
+  
+  .exp-img{
+    visibility: hidden;
+  }
+  
   .in-action{
     display: none;
   }
