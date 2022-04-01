@@ -460,6 +460,19 @@ li.contact-items > a {
     grid-template-rows: repeat(6, auto);
   }
   
+  .growth-container, .create-container, .transform-container{
+    flex-direction: column;
+  }
+  
+  .offer-details{
+    width: 100%;
+    text-align: center;
+  }
+  
+  .offer-imgs{
+    width: 100%;
+  }
+  
   .decorative-line{
     background-image: linear-gradient(to right, transparent, transparent, transparent, transparent);
   }
