@@ -481,8 +481,16 @@ li.contact-items > a {
   background-image: linear-gradient(to right, transparent, transparent, transparent, transparent);
 }
   
+  .gap-container{
+    margin: 5rem 0;
+  }
+  
   .gap-title, .services-title{
     box-shadow: none;
+  }
+  
+  .gap-details{
+    margin: 0 0.5rem;
   }
   
   .services-heading{
