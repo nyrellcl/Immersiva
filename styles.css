@@ -429,3 +429,38 @@ li.contact-items > a {
   height: 80px;
   box-shadow: 10px -10px;
 }
+
+
+/*Mobile*/
+
+@media screen and (max-width: 500px){
+  .section-information{
+    font-size: 2rem;
+  }
+  
+  .services-container{
+    grid-template-columns: auto;
+    grid-template-rows: repeat(6, auto);
+  }
+  
+  .decorative-line{
+    display: none;
+  }
+  
+  .gap-title, .services-title{
+    box-shadow: none;
+  }
+  
+  .services-heading{
+    margin: 0;
+  }
+  
+  #s1{
+    width: auto;
+  }
+  
+  .in-action{
+    display: none;
+  }
+}
+
