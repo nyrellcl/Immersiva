@@ -459,6 +459,10 @@ li.contact-items > a {
     width: auto;
   }
   
+  #child{
+    width: 100%;
+  }
+  
   .in-action{
     display: none;
   }
