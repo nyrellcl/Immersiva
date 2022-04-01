@@ -335,7 +335,7 @@ header{
 .growth-container, .create-container, .transform-container{
   display: flex;
   width: 100%;
-  height: auto;
+  height: 50%;
   align-items: center;
   background-color: hsl(207, 100%, 98%); 
   color: black;
