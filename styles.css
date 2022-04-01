@@ -398,8 +398,14 @@ li.contact-items > a {
   height: auto;
 }
 
-#footer-button {
+#footer-button-container {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+#foot-btn {
+  width: 350px;
+  height: 80px;
+  box-shadow: 10px -10px;
 }
