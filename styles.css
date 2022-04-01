@@ -444,7 +444,7 @@ li.contact-items > a {
   }
   
   .decorative-line{
-    display: none;
+    background-image: linear-gradient(to right, transparent, transparent, transparent, transparent);
   }
   
   .gap-title, .services-title{
