@@ -325,7 +325,7 @@ header{
   width: 50%;
 }
 
-.growth-section, create-section {
+.growth-section, .create-section {
   display: flex;
   flex-direction: column;
   align-items: center;
