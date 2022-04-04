@@ -534,8 +534,9 @@ li.contact-items > a {
   }
   
   .services-container{
-    grid-template-columns: auto;
-    grid-template-rows: repeat(6, auto);
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(2, auto);
+    margin: 4rem 1rem 0;
   }
   
   .growth-container, .create-container, .transform-container{
@@ -592,6 +593,10 @@ li.contact-items > a {
   
   .services-heading{
     margin: 0;
+  }
+  
+  .services-information{
+    height: auto;
   }
   
   #s1{
