@@ -539,3 +539,9 @@ li.contact-items > a {
   }
 }
 
+@media only screen and (max-width: 1700px){
+  .decorative-line{
+    background-position: 0 580px;
+  }
+}
+
