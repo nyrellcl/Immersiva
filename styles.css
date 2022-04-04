@@ -599,6 +599,10 @@ li.contact-items > a {
     height: auto;
   }
   
+  .service-details{
+    padding: 0 0.55rem;
+  }
+  
   #s1{
     width: auto;
   }
