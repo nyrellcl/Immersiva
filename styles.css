@@ -20,6 +20,8 @@
   color: #f2d527;
   font-weight: 600;
   text-align: center;
+  width: 40%;
+  text-tansform: capitalize;
 }
 
 .decorative-line {
@@ -470,6 +472,7 @@ li.contact-items > a {
   
   .expertise-title{
     font-size: 2.45rem;
+    width: 80%;
   }
   
   .offer-details{
@@ -495,6 +498,11 @@ li.contact-items > a {
   
   .gap-title, .services-title{
     box-shadow: none;
+  }
+  
+  .title{
+    text-align: center;
+    width: 80%;
   }
   
   .gap-details{
