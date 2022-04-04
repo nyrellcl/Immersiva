@@ -591,6 +591,11 @@ li.contact-items > a {
     margin: 0 0.5rem;
   }
   
+  .service-card{
+    width: 170px;
+    height: 220px;
+  }
+  
   .services-heading{
     margin: 0;
   }
