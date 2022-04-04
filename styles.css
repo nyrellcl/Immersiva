@@ -21,7 +21,7 @@
   font-weight: 600;
   text-align: center;
   width: 40%;
-  text-tansform: capitalize;
+  text-transform: capitalize;
 }
 
 .decorative-line {
@@ -498,6 +498,7 @@ li.contact-items > a {
   
   .gap-title, .services-title{
     box-shadow: none;
+    width: 100%;
   }
   
   .title{
