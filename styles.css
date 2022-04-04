@@ -79,6 +79,19 @@
 #shadow-btn{
   box-shadow: 5px 5px;
 }
+
+nav.nav-bar {
+  width: 100%;
+  height: auto;
+}
+
+ul.nav-list {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  width: 100%;
+  position: absolute;
+}
   
 
 .section-container{
