@@ -28,7 +28,7 @@
   background-image: linear-gradient(to right, #f2d527, transparent, transparent, #f2d527 100%);
   background-repeat: no-repeat;
   background-size: 100% 6px;
-  background-position: 0 420px;
+  background-position: 0 430px;
 }
 
 .btn.btn-background::before{
