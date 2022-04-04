@@ -102,6 +102,8 @@ header#nav-menu {
 nav.nav-bar {
   width: 100%;
   height: auto;
+  display: flex;
+  align-items: center;
 }
 
 ul.nav-list {
