@@ -81,6 +81,16 @@
   box-shadow: 5px 5px;
 }
 
+/*Logo*/
+div#logo {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+  align-items: center;
+}
+
 /*Nav-Bar*/
 
 header#nav-menu {
@@ -497,7 +507,7 @@ li.contact-items > a {
 }
 
 .comp-logo{
-  width: 100%;
+  width: auto;
   height: auto;
 }
 
