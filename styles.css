@@ -552,6 +552,14 @@ li.contact-items > a {
     text-align: center;
   }
   
+  .comp-logo{
+    width: 100%;
+  }
+  
+  ul.nav-list{
+    padding: 0;
+  }
+  
   .offer-imgs{
     width: 100%;
   }
