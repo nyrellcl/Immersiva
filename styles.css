@@ -81,6 +81,12 @@
   box-shadow: 5px 5px;
 }
 
+header#nav-menu {
+  height: 20%;
+  position: relative;
+  background: white;
+}
+
 nav.nav-bar {
   width: 100%;
   height: auto;
@@ -92,6 +98,7 @@ ul.nav-list {
   justify-content: space-evenly;
   width: 100%;
   position: absolute;
+  font-family: 'Josefin Sans', sans-serif;
 }
   
 
