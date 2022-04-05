@@ -32,7 +32,7 @@
   background-position: 0 430px;
 }
 
-.bar-cont {
+.bar-container {
   position: absolute;
   width: 100%;
   z-index: 1;
