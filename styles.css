@@ -32,6 +32,20 @@
   background-position: 0 430px;
 }
 
+.bar-cont {
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+}
+
+span.bar {
+  width: 100%;
+  background-color: black;
+  height: 2px;
+}
+
 .btn.btn-background::before{
   content: '';
   position: absolute;
