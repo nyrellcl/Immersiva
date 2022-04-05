@@ -176,7 +176,7 @@ a.link.line {
 
 .section-information{
   font-family: 'Josefin Sans', sans-serif;
-  color: black;
+  color: #272626;
   font-size: 3rem;
   font-weight: 700;
 }
@@ -265,7 +265,7 @@ header{
 .gap-title{
   font-family: 'Fraunces', serif;
   font-size: 2rem;
-  color: black;
+  color: #272626;
   text-transform: uppercase;
   width: 100%;
   box-shadow: -20px 0px 0px 0px #be574b;
@@ -284,7 +284,7 @@ header{
 .services-title{
   font-family: 'Fraunces', serif;
   font-size: 2rem;
-  color: black;
+  color: #272626;
   text-transform: uppercase;
   width: 40%;
   box-shadow: -20px 0px 0px 0px #be574b;
@@ -389,7 +389,7 @@ header{
 .expertise-title{
   font-family: 'Fraunces', serif;
   font-size: 2.5rem;
-  color: black;
+  color: #272626;
   text-transform: uppercase;
   width: 100%;
 }
