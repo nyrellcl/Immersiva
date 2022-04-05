@@ -349,13 +349,13 @@ header{
 #s1{
   width: 800px;
   padding-left: 3rem;
-  box-shadow: inset 4px 4px;
+  box-shadow: inset 4px 4px #272626;
   padding-top: 1rem;
 }
 
 #s2{
   padding-right: 3rem;
-  box-shadow: 4px 4px;
+  box-shadow: 4px 4px #272626;
   padding-bottom: 1rem;
 }
 
