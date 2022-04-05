@@ -87,7 +87,6 @@ div#logo {
   background-color: white;
   display: flex;
   justify-content: center;
-  padding-top: 2rem;
   align-items: center;
 }
 
@@ -110,9 +109,11 @@ ul.nav-list {
   display: flex;
   list-style: none;
   justify-content: space-evenly;
-  width: 100%;
+  width: 50%;
   position: absolute;
   font-family: 'Josefin Sans', sans-serif;
+  align-items: center;
+  padding: 0;
 }
 
 /*Nav-items hover animation*/
