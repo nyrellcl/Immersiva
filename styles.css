@@ -333,6 +333,7 @@ header{
   font-weight: 600;
   color: whitesmoke;
   padding: 0 1rem;
+  letter-spacing: 0.05rem;
 }
 
 #parent{
