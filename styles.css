@@ -42,7 +42,7 @@
 
 span.bar {
   width: 100%;
-  background-color: black;
+  border-bottom: 0.8rem double #272626;
   height: 2px;
 }
 
