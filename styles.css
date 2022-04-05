@@ -560,6 +560,11 @@ li.contact-items > a {
     width: 100%;
   }
   
+  nav.nav-bar{
+    display: none;
+  }
+  
+  
   ul.nav-list{
     padding: 0;
   }
