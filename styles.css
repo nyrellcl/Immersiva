@@ -25,12 +25,12 @@
   text-transform: capitalize;
 }
 
-.decorative-line {
+/*.decorative-line {
   background-image: linear-gradient(to right, #f2d527, transparent, transparent, #f2d527 100%);
   background-repeat: no-repeat;
   background-size: 100% 6px;
   background-position: 0 430px;
-}
+}*/
 
 .bar-container {
   position: absolute;
