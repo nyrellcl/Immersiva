@@ -4,7 +4,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
 
-
+body{
+  margin: 0;
+}
 
 .title-container {
   display: flex;
@@ -351,6 +353,7 @@ header{
   padding-left: 3rem;
   box-shadow: inset 4px 4px #272626;
   padding-top: 1rem;
+  margin-left: 1rem;
 }
 
 #s2{
